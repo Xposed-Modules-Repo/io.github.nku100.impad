@@ -1,5 +1,11 @@
 # I’m Pad / ImPad
 
+[![LSPosed 仓库](https://img.shields.io/badge/LSPosed-%E6%A8%A1%E5%9D%97%E4%BB%93%E5%BA%93-blue)](https://github.com/Xposed-Modules-Repo/io.github.nku100.impad) [![最新版](https://img.shields.io/github/v/release/NKU100/ImPad?label=%E6%9C%80%E6%96%B0%E7%89%88)](https://github.com/NKU100/ImPad/releases/latest) [![许可证](https://img.shields.io/github/license/NKU100/ImPad)](https://github.com/NKU100/ImPad/blob/main/LICENSE)
+
+[![构建](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNKU100%2FImPad%2Fbuild-badge-data%2Fbuild.json)](https://github.com/NKU100/ImPad/actions/workflows/build.yml) [![微信适配](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNKU100%2FImPad%2Fcompatibility-badge-data%2Fwechat.json)](https://github.com/NKU100/ImPad/actions/workflows/compatibility-wechat.yml) [![QQ 适配](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNKU100%2FImPad%2Fcompatibility-badge-data%2Fqq.json)](https://github.com/NKU100/ImPad/actions/workflows/compatibility-qq.yml) [![企微适配](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNKU100%2FImPad%2Fcompatibility-badge-data%2Fwecom.json)](https://github.com/NKU100/ImPad/actions/workflows/compatibility-wecom.yml)
+
+适配徽章展示对应应用最近一次结束的正式适配流程和实际检测版本；绿色表示精确候选已通过静态回归及运行验证，不代表其他版本均兼容。
+
 ImPad 是一个 LSPosed 模块，为微信、QQ 和企业微信适配平板登录界面。模块没有独立界面，启用后会在目标应用中生效。
 
 ## 下载
